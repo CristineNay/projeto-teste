@@ -1,2 +1,8 @@
 /**/
-
+.display{
+  height: 90px;
+  font-size: 69px;
+}
+.line{
+  margin-top: 10px;
+}
